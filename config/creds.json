@@ -1,0 +1,10 @@
+{
+    "slack_bot_token" : "your-token-goes-here'",
+    "slack_signing_secret" : "your-signing-secret-goes-here'",
+    "port" : 5000,
+    "mongoDB" : {
+        "dbName" : "your-slack-bot",
+        "uri" : "your-mongo-uri",
+        "collectionName" : "your-mongo-collection"
+    }
+}
