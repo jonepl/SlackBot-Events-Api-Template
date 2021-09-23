@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="https://assets.entrepreneur.com/content/3x2/2000/20171009203636-slackbot-logo.jpeg" alt="Markdownify" width="200"></a>
+  <a href="#"><img src="https://www.pngfind.com/pngs/m/81-814428_build-your-own-slack-app-and-bot-slackbot.png" alt="Markdownify" width="200"></a>
   <br>
   Slackbot Events Api Example
 </h1>
